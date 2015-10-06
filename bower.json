@@ -1,0 +1,19 @@
+{
+  "name": "mailgist",
+  "version": "0.0.1",
+  "authors": [
+    "@alfg <alf.g.jr@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
